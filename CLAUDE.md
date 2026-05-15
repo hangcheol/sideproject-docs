@@ -26,6 +26,14 @@
 - **작업 계획서 (Phase별 체크리스트):** `firstBusiness/hotplace/PLAN.md`
 - **로컬 인프라 (docker-compose):** `firstBusiness/hotplace/docker-compose.yml`
 
+## 🎮 AR World 프로젝트 스펙 (secondBusiness)
+- **프로젝트 규약:** `docs/ar-world/CLAUDE.md`
+- **기술 스택 (Unity 6, AR Foundation):** `docs/ar-world/tech-stack.md`
+- **아키텍처 (Service/Manager/View):** `docs/ar-world/architecture.md`
+- **C# 코딩 표준:** `docs/ar-world/coding-standards.md`
+- **폴더 구조 및 스캐폴딩:** `docs/ar-world/project-scaffold.md`
+- **작업 계획서:** `secondBusiness/ar-world/PLAN.md`
+
 ## 🚀 Top 3 Golden Rules
 1. **Plan First:** 코드를 쓰기 전 계획(Plan)을 제시하고 컨펌받을 것.
 2. **Self-Correction:** 에러 발생 시 스스로 3회까지 해결 시도할 것.
